@@ -23,13 +23,19 @@
       ,
 {
          "name": "TRUE-DTAC-TH-04",
-         "url": "https://raw.githubusercontent.com/Khansi88/Khansi88/main/TH-04.ovpn"
+         "url": "https://raw.githubusercontent.com/Khansi88/Khansi88/main/SG-01.ovpn"
 }
 
       ,
 {
          "name": "TRUE-DTAC-TH-05",
-         "url": "https://raw.githubusercontent.com/Khansi88/Khansi88/main/TH-05.ovpn"
+         "url": "https://raw.githubusercontent.com/Khansi88/Khansi88/main/SG-02.ovpn"
+}
+
+      ,
+{
+         "name": "TRUE-DTAC-TH-06",
+         "url": "https://raw.githubusercontent.com/Khansi88/Khansi88/main/SG-03.ovpn"
 }
 
 
@@ -40,7 +46,7 @@
    ],
 "message":"
 ထိုင်းအင်တာနက် VIP တစ်လ 50ဘတ်ဖြစ်ရောင်းပေးနေပါတယ်
-အသုံးပြုနိုင်ဆင်းကဒ် Dtac နှင့် Ture ကဒ်များဖြစ်သည်။
+အသုံးပြုနိုင်ဆင်းကဒ် Dtacကဒ် ဖြစ်သည်။
 ဂိမ်းသမားများအရင်စမ်းသုံးကြည့်နိုင်သည်။
 အဆင်ပြေမှသာဝယ်ယူဆက်သွယ်နိုင်သည်။
 VIp စျေးနှုန်းများ🤑🤑🤑
@@ -51,9 +57,9 @@ VIp စျေးနှုန်းများ🤑🤑🤑
 အပ်ဒိပ်တင်ပြီးပါက ပုံမှန်အတိုင်းချိတ်သုံးနိုင်သည်။
    မှက်ချက်-ပြထားသောပက်ကေ့90ရက် 61ဘတ်အရင်ဝယ်ရပါမည်
 အားလုံးပဲအဆင်ပြေပါစေ။
-   ဖိုင်တင်ရက် 3/11/2023
-   APKဗားရှင်း-6
+   ဖိုင်တင်ရက် 11/11/2023
+   APKဗားရှင်း-7
 \n\nFb: Khansi",
-"title":"ဖိုင်အသစ်အပ်ဒိတ်ပါဗာရှင်း 6" ,
-   "version":6
+"title":"ဖိုင်အသစ်အပ်ဒိတ်ပါဗာရှင်း 7" ,
+   "version":7
 }
